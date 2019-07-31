@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+h1{color:powderblue;font-size:40px}
+#title {
+  font-family: 'Bonbon', cursive;
+  font-size:70px;
+  color:gold;
+  border-style: dotted;
+  border-color: coral;
+}
+
+#subjects {
+  font-family: 'Londrina Shadow', cursive;
+  font-size:25px;
+  color:#F08080;
+}
+
+#bio {
+  font-family: 'Markazi Text', serif;
+  font-size:10;
+  color: grey;
+}
+
+#news{
+  font-family: 'Lato', sans-serif;
+  font-size:35;
+  color:#D8BFD8;
+  border-style: inset;
+  border-color: #FF6347;
+  width: 400px;
+  height: 200px;
+  padding: 20px;
+  border: 10px;
+}
